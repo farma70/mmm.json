@@ -1,0 +1,8 @@
+{
+	"api_url": "https://cnt-odcv-itv01.svc.iptv.rt.ru/",
+	"ws_url": "wss://cnt-lbrc-itv02.svc.iptv.rt.ru/ws",
+	"spy_url": "https://cnt-lbrc-itv02.svc.iptv.rt.ru/event_collector",
+	"img_url": "https://cnt-m7-itv02.svc.iptv.rt.ru",
+	"proxy_url": "",
+	"udp_collector_url": "udp://cnt-odcv-itv02.svc.iptv.rt.ru:5040"
+}

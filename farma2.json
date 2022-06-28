@@ -1,0 +1,8 @@
+{
+	"api_url": "https://qaapp-prod-itv01.svc.iptv.rt.ru/",
+	"ws_url": "wss://qaapp-prod-itv01.svc.iptv.rt.ru/ws",
+	"spy_url": "",
+	"img_url": "https://qaapp-prod-itv01.svc.iptv.rt.ru",
+	"proxy_url": "http://proxy.svc.iptv.rt.ru:3128",
+	"udp_collector_url": "udp://cnt-rf-orel-apifront01.cnt.iptv.rt.ru:5040"
+}
